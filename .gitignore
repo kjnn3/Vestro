@@ -123,3 +123,4 @@ dist/
 .vinxi/
 .astro/
 .svelte-kit/
+venv
